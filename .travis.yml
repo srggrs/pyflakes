@@ -1,1 +1,2 @@
-script: echo "HELLO BB TRAVIS!"
+language: python
+script: python -c "print('HELLO BB TRAVIS!')"
